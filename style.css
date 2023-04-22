@@ -1,0 +1,17 @@
+html {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: antiquewhite	;
+}
+
+.title {
+    font-size: 2rem;
+    color: rgb(37, 26, 189);
+}
+
